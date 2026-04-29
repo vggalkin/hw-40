@@ -5,3 +5,4 @@
 *.tfstate
 HW_PIC/*
 setup_backend/.terraform/*
+*.fstate.backup
